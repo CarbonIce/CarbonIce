@@ -1,3 +1,1 @@
-Acheivement Get!
-How did we get here?
-This is a super inactive github account, a lot of abandoned projects lying around.
+Currently working on Cyberpatriot scripts, but the repo has to stay private to comply with Cyberpatriot rules.
